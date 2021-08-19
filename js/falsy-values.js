@@ -4,3 +4,8 @@ console.log(Boolean(NaN))
 console.log(Boolean(undefined))
 console.log(Boolean(null))
 console.log(Boolean(false))
+
+
+function getExtremeElements(array) {
+    array[1, array.length]
+}
