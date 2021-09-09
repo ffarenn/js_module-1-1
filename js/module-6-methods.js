@@ -161,7 +161,7 @@ console.log('2', result2);
 const result3 = students.sort((a,b) => a.age - b.age)[students.length - 1]
 console.log('3', result3);
     
-xonst result4 = students.reduce((acc, elem, i, arr) => {
+const result4 = students.reduce((acc, elem, i, arr) => {
     console.log(acc += elem.age / arr.length);
     return acc
 }, 0)
