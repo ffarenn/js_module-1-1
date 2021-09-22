@@ -14,3 +14,4 @@
 // import "./js/module-8-debounce.js"
 import "./js/module-8-IntersectionObserver.js"
 // import "./js/references/refs.js"
+import "./js/module-10-localStorage.js"
