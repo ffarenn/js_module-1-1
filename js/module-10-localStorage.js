@@ -53,4 +53,3 @@ form.addEventListener('submit', (e) => {
     secondInput.value = ''
 })
  
-{ Оксана }
